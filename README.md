@@ -1,2 +1,2 @@
-# Novation-Automap-Legacy-Bridge
+# automap-rev
 A project designed to allow customisation of old Novation synths still using Automap software.
